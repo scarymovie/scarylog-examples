@@ -1,0 +1,6 @@
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/scarymovie/scarylog v1.0.1 h1:nUydk2IAeRAgq+q7/zFVKYN8Kz4qexzzw/a3CTuDDqY=
+github.com/scarymovie/scarylog v1.0.1/go.mod h1:M24VETno0H9rDAjaFjsNWlqOPKz4Qll9DbOIjKqBi/I=
+github.com/scarymovie/scarylog v1.0.2 h1:ZWKJvR5nrcUgkHvsFxSqWv9lgtJbb1/ld22ZNgsm9FM=
+github.com/scarymovie/scarylog v1.0.2/go.mod h1:e8mT1RyN2l0npsJRw4fP60vJfa0pdh4rpKB5CtvdFKw=
